@@ -1,0 +1,22 @@
+{
+  "name": "NSCateStringSubKit",
+  "version": "0.1.0",
+  "summary": "A short description of NSCateStringSubKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/NashAnd/NSCateStringSubKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NashAnd": "1252419379@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/NashAnd/NSCateStringSubKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NSCateStringSubKit/Classes/**/*"
+}

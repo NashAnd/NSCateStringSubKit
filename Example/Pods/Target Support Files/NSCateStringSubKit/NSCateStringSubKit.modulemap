@@ -1,0 +1,6 @@
+framework module NSCateStringSubKit {
+  umbrella header "NSCateStringSubKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
